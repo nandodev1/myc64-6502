@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1577323372 source:/home/pc/port6502/6502port/main.cpp
+	<iostream>
+	"util.h"
+	"mult10_prg.h"
+	"room/ciao.h"
+	<errno.h>
+	<time.h>
+
+1577323658 /home/pc/port6502/6502port/debug.h
+
+1577058619 /home/pc/port6502/6502port/cpu.h
+
+1577307084 /home/pc/port6502/6502port/ram.h
+
+1577305019 /home/pc/port6502/6502port/util.h
+	"ram.h"
+	"cpu.h"
+	"debug.h"
+	"prog1.h"
+
+1577151104 /home/pc/port6502/6502port/prog1.h
+
+1577229984 /home/pc/port6502/6502port/mult10_prg.h
+
+1577242369 /home/pc/port6502/6502port/basic_c65.h
+
+1577243618 /home/pc/port6502/6502port/load_prog.h
+
+1577245894 /home/pc/port6502/6502port/ciao.h
+
+1577245894 /home/pc/port6502/6502port/room/ciao.h
+
